@@ -1,0 +1,47 @@
+body{
+    background-color:#98A1BC;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    margin: 0;
+
+}
+
+.contenedor{
+    background-color: white;
+    padding: 30px;
+    max-width:600px;
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+
+.contenedor h1{
+    font-size: 30px;
+    border: 2px;
+    border-style: solid;
+    padding: 10px;
+    color: #2c3e50;
+    text-align: center;
+}
+
+.contenedor h2{
+    font-size: 20px;
+    margin-top: 20px;
+    color: #2c3e50;
+}
+
+.contenedor p{
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+.foto{
+    display: block;
+    margin: 20px 0 auto;
+    max-width: 150px;
+    border-radius: 8px;
+    border: 2px;
+    border-style: solid;
+    border-color: #ccc;
+}
