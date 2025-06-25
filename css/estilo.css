@@ -9,10 +9,8 @@ body{
     background-color: white;
     padding: 30px;
     max-width:600px;
-    width: 90%;
     margin: 0 auto;
     border-radius: 10px;
-
 }
 
 .contenedor h1{
@@ -43,11 +41,12 @@ body{
 }
 
 .foto{
-    display: block;
+    display:block;
     margin: 20px 0 auto;
     max-width: 150px;
     border-radius: 8px;
     border: 2px;
     border-style: solid;
     border-color: #ccc;
+    
 }
