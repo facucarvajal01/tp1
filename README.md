@@ -27,10 +27,15 @@ Incluye:
 📁 Estructura de archivos
 
 MITARJETA/
+
 ├── css/
+
 ├── estilo.css
+
 ├── img/
+
 └── mifoto.jpeg
+
 └── index.html
 
 
